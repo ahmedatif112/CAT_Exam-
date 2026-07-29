@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Unit Tests (Fail Fast)
         run: |
-          python -m pytest tests/test_unit.py -v --failfast
+          python -m pytest tests/test_unit.py -v -x
 
       - name: Run Integration Tests
         run: |
