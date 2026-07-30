@@ -20,11 +20,17 @@ A Software Verification & Validation (V&V) practical exam project demonstrating 
 
 ## Project Structure
 ├── notification_engine.py # Core business logic under test
+
 ├── sqlite_repository.py # Real + intentionally broken SQLite repositories
+
 ├── tests/
+
 │ ├── test_unit.py # 7 isolated unit tests (Mock-based)
+
 │ └── test_integration.py # 3 integration tests (real in-memory SQLite)
+
 ├── .github/workflows/ci.yml # GitHub Actions CI pipeline
+
 └── requirements.txt
 
 ## Testing Strategy
