@@ -1,10 +1,10 @@
 # Automated Verification of a Financial Notification Dispatcher
 
 **Name:** Ahmed Atif Abdalla
-**Registration Number:** 24454/2024
-**Module:** Software Verification & Validation
 
-# Automated Verification of a Financial Notification Dispatcher
+**Registration Number:** 24454/2024
+
+**Module:** Software Verification & Validation
 
 A Software Verification & Validation (V&V) practical exam project demonstrating a layered testing strategy 
 — unit tests, integration tests, and CI automation — for a financial SMS notification system.
